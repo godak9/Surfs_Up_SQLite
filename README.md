@@ -8,14 +8,17 @@ Data retrieval was conducted to obtain summary statistics about temparture data 
 Temperature data for June and December were plotted and displayed in histogram graphs. A summary dataframe of the summary statistics for each month was also created to show a side by side comparison
 - June Temperature Histogram
 The data was sorted into 20 bins. The graph follows a bell curve and a more normal distribution around the mean compared to the December Temperature Histogram.
+
 ![Screen Shot 2022-08-11 at 7 08 52 PM](https://user-images.githubusercontent.com/104794100/184257167-8027e2da-f933-40db-8d19-d3e0c4cf8660.png)
 
 - December Temperature Histogram 
 The data was sorted into 20 bins. The graph has a less normal distribution around the mean compared to the June Temperature Histogram and there is a larger range in recorded temperatures in December compared to June. 
+
 ![Screen Shot 2022-08-11 at 7 09 35 PM](https://user-images.githubusercontent.com/104794100/184257228-ae750bef-dd41-45a0-aed9-dfca3f6d0b90.png)
 
 - Summary DataFrame
 The average temperature in June (~75 degrees F) is almost 4 degrees F higher than the average temperature in December (~71 degrees F). The minimum temeprature in December (56 degrees F) is 8 degrees F lower than the minimum temoperature in June (64 degrees F), but the maximum temperature in December (83 degrees F) is only 2 degrees F lower than the maximum temeperature in June (85 degrees F). The recorded temperatures in December are much more variable the recorded temperature in June. 
+
 ![Screen Shot 2022-08-11 at 7 02 12 PM](https://user-images.githubusercontent.com/104794100/184256858-a223a7bf-8762-4578-b73b-ab33d04ca032.png)
 
 ## Summary of Findings
